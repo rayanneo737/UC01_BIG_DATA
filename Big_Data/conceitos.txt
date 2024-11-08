@@ -1,0 +1,48 @@
+Conjunto de valores: 10,20,20,30,40
+
+média: 24
+
+mediana: 20
+
+moda: 20
+
+
+
+variância e o desvio padrão: 5,10,15
+
+média: 10
+var=[(5-10)² + (10-10)² + (15-10)²]/3 = (25 + 0 + 25)/3 = 16,66
+
+desvio padrão: raiz quadrada de 4,08
+
+
+
+
+notas: 13,19,26,27,34,45,50,52,63,76,81,86,92,98:
+
+média: 54,4
+
+Justificativa: Sim, pois foi um estudante com notas diversificadas.
+
+
+
+Aluno A:  9,5 |  9,0 |  2,0 |  6,0 | 6,5 | 3,0 | 7,0 | 2,0
+Aluno B:  5,0 |  5,5 |  4,5 |  6,0 | 5,5 | 5,0 | 4,5 | 4,0
+
+
+Média do aluno a: 5,6
+média do aluno b: 5
+
+Resposta: o Aluno que apresentou resultados mais homogênio é o 
+aluno B, pois suas notas não variaram tanto uma para outras.
+
+
+
+
+
+
+
+
+
+
+
